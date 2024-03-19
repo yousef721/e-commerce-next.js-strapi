@@ -1,9 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/product-details/[productId]/page": "app/product-details/[productId]/page.js",
-  "/checkout/page": "app/checkout/page.js",
-  "/payment-confirm/page": "app/payment-confirm/page.js",
-  "/cart/page": "app/cart/page.js",
-  "/api/send-email/route": "app/api/send-email/route.js",
-  "/api/create-intent/route": "app/api/create-intent/route.js"
-}
